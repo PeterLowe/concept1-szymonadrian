@@ -1,5 +1,5 @@
 Title
-insert team member names here	Adrian
+Adrian, Szymon, Krystian
 
 Elevator pitch 
 Describe your game in 30 seconds or less
