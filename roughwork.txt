@@ -1,9 +1,5 @@
 Title
-<<<<<<< HEAD
 Szymon, Adrian, Krystian
-=======
-Adrian, Szymon, Krystian
->>>>>>> 64652f8202e29277965340bdc93cdd83727ed85c
 
 Elevator pitch 
 Describe your game in 30 seconds or less
