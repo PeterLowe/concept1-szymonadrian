@@ -1,17 +1,17 @@
 Title
-insert team member names here
+Szymon, Adrian, Krystian
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+Fast supercars racing in space on different planets and around the galaxies. Customizable cars, new worlds, a thrilling story and much much more.
 ...
 World Background
-main differences in your game world
+The background is set in space, there are different planets and galaxies that the player can visit and race in. Each planet can be visited.
 ...
 Pillars
 3-4 fundementals of this game
 ...
 30 second gameplay description
-describe what its like to play the essence of the game loop
+The player chooses a car to race with and they get put into the race. When the race starts they race other players or A.I.
 ...
 Features points
 key selling points of your game
