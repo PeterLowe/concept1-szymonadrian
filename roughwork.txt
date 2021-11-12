@@ -1,11 +1,7 @@
+
 Title
-<<<<<<< HEAD
-<<<<<<< HEAD
-Szymon, Adrian, Krystian
-=======
-=======
-Szymon, Adrian, Krystian
->>>>>>> szymon
+
+Adrian, Szymon, Krystian
 
 Elevator pitch 
 Fast supercars racing in space on different planets and around the galaxies. Customizable cars, new worlds, a thrilling story and much much more.
